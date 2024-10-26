@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IrinaKossova/Groceries.git/static/css/main.471f30ac.css",
+    "main.js": "/IrinaKossova/Groceries.git/static/js/main.2f6b3f70.js",
+    "static/js/453.cceface0.chunk.js": "/IrinaKossova/Groceries.git/static/js/453.cceface0.chunk.js",
+    "index.html": "/IrinaKossova/Groceries.git/index.html",
+    "main.471f30ac.css.map": "/IrinaKossova/Groceries.git/static/css/main.471f30ac.css.map",
+    "main.2f6b3f70.js.map": "/IrinaKossova/Groceries.git/static/js/main.2f6b3f70.js.map",
+    "453.cceface0.chunk.js.map": "/IrinaKossova/Groceries.git/static/js/453.cceface0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471f30ac.css",
+    "static/js/main.2f6b3f70.js"
+  ]
+}
