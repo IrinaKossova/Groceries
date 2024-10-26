@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'https://irinakossova.github.io/Groceries/src/index.css';
 import Groceries from 'https://irinakossova.github.io/Groceries/src/Groceries.js';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from 'https://irinakossova.github.io/Groceries/src/reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
