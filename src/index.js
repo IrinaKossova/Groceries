@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import Groceries from './Groceries';
+import 'https://irinakossova.github.io/Groceries/src/index.css';
+import Groceries from 'https://irinakossova.github.io/Groceries/src/Groceries.js';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
