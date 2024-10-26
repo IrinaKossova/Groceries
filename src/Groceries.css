@@ -1,0 +1,40 @@
+*{
+    background-image: url(https://rugraphics.ru/wp-content/uploads/tekstury-tetradnyh-listov.jpg);
+}
+div {
+    margin: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#006b88;
+    background-image: url(https://media.istockphoto.com/photos/paper-bag-texture-background-picture-id492357284?k=20&m=492357284&s=170667a&w=0&h=hHztajUoCUNXO-W-dG9sIzFQAwQwMQwgyNkiu24xoWA=);
+    }
+
+input {
+    padding: 15px;
+    margin: 10px;
+    width: 300px;
+    border-radius: 100px;
+    border: 10px solid #006b88;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    } 
+
+button {
+    padding: 15px;
+    color: #006b88;
+    border: 10px solid #006b88; 
+    border-radius: 500px;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+ul {
+    list-style-image: url("./image.png");
+    padding-left: 10px;
+    }
+    
+li {
+    padding: 10px;
+    background-color: #006b88;
+    margin-bottom: 10px;
+    border-radius: 500px;
+    font-size: large;
+    }
