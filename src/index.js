@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import 'https://irinakossova.github.io/Groceries/src/index.css';
-import Groceries from 'https://irinakossova.github.io/Groceries/src/Groceries.js';
-import reportWebVitals from 'https://irinakossova.github.io/Groceries/src/reportWebVitals';
+import '/IrinaKossova/Groceries.git/src/Groceries.css';
+import Groceries from '/IrinaKossova/Groceries.git/src/Groceries.js';
+import reportWebVitals from '/IrinaKossova/Groceries.git/src/reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
