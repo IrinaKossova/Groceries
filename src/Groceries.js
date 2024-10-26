@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Groceries.css';
+import 'https://irinakossova.github.io/Groceries/src/Groceries.css';
 
 const Groceries = () => {
     const [items, setItems] = useState([]);   
